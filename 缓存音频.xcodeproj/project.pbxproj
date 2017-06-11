@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					DD7824981EED0BB1001B2384 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = B7UQ7WHB5T;
 						ProvisioningStyle = Automatic;
 					};
 					DD7824B11EED0BB1001B2384 = {
@@ -424,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B7UQ7WHB5T;
 				INFOPLIST_FILE = "缓存音频/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ganZhi.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +438,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B7UQ7WHB5T;
 				INFOPLIST_FILE = "缓存音频/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ganZhi.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +512,7 @@
 				DD7824C81EED0BB1001B2384 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD7824C91EED0BB1001B2384 /* Build configuration list for PBXNativeTarget "缓存音频Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +521,7 @@
 				DD7824CB1EED0BB1001B2384 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD7824CC1EED0BB1001B2384 /* Build configuration list for PBXNativeTarget "缓存音频UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +530,7 @@
 				DD7824CE1EED0BB1001B2384 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
